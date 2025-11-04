@@ -1,7 +1,8 @@
 # YAM2H - Yet another Mother 2 Hack
 
 (Unlike nothing ever done before) This project aims to make Earthbound the closest as possible to Mother 2,
-but unlike the countless "Restoration projects"
+but unlike the countless "Restoration projects" it actually restores things that were unnoticed or overlooked by the creators of those projects.
+This project doesn't aim to be a pedantic "re-localization" hack or think I'm smarter than the actual translators/developers.
 
 ## Origin
 
