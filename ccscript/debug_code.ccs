@@ -1,0 +1,40 @@
+import asm65816
+
+//ROM[0xC12EBA] = ASMLoadAddress0A(debug_text)
+debug_text: {
+	// Fix broken debug options
+	ROMTBL[0xC3E874, 10, 0]  = "Flags[00]"
+	ROMTBL[0xC3E874, 10, 1]  = "Goods[00]"
+	ROMTBL[0xC3E874, 10, 2]  = "Save[00]"
+	ROMTBL[0xC3E874, 10, 3]  = "Apple[00]"
+	ROMTBL[0xC3E874, 10, 4]  = "Banana[00]"
+
+	ROMTBL[0xC3E874, 10, 5]  = "TV[00]"
+	ROMTBL[0xC3E874, 10, 6]  = "Event[00]"
+	ROMTBL[0xC3E874, 10, 7]  = "Warp[00]"
+	ROMTBL[0xC3E874, 10, 8]  = "Tea[00]"
+	ROMTBL[0xC3E874, 10, 9]  = "Teleport[00]"	// From MOTHER2 katakana "テレポ"
+
+	ROMTBL[0xC3E874, 10, 10] = "Star [8B][00]"	// From MOTHER2 katakana "スターα"
+	ROMTBL[0xC3E874, 10, 11] = "Star [8C][00]"	// From MOTHER2 katakana "スターβ"
+	ROMTBL[0xC3E874, 10, 12] = "Player 00[00]"	// From MOTHER2 katakana "プレーヤー０"
+	ROMTBL[0xC3E874, 10, 13] = "Player 01[00]"	// From MOTHER2 katakana "プレーヤー１"
+
+	ROMTBL[0xC3E874, 10, 14] = "Guide[00]"
+	ROMTBL[0xC3E874, 10, 15] = "Track[00]"
+	ROMTBL[0xC3E874, 10, 16] = "Cast[00]"
+	ROMTBL[0xC3E874, 10, 17] = "Stone[00]"
+	ROMTBL[0xC3E874, 10, 18] = "Staff[00]"
+	ROMTBL[0xC3E874, 10, 19] = "HP Roll[00]"	// From MOTHER2 katakana "メーター
+
+	ROMTBL[0xC3E874, 10, 20] = "Replay[00]"
+	ROMTBL[0xC3E874, 10, 21] = "Test 1[00]"
+	ROMTBL[0xC3E874, 10, 22] = "Test 2[00]"
+
+	"[00 00 00 00 00 00 00 00 00 00 00 06 00 00 01 06 01 00 02 06 02]"
+}
+
+// Change "tx6" text to "Next"
+ROM[0xC454BF] = ASMLoadAddress0E(TXT_NEXT)
+TXT_NEXT:
+    "Next[00]"
