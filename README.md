@@ -61,8 +61,11 @@ Download the patches from the [Release](https://github.com/Masaru2/YAM2H/release
 It has to be patched through the following rom:
 
 `Database match: EarthBound (USA)`
+
 `Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)`
+
 `File/ROM SHA-1: D67A8EF36EF616BC39306AA1B486E1BD3047815A`
+
 `File/ROM CRC32: DC9BB451`
 
 ## Building
