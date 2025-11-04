@@ -451,7 +451,7 @@ l_0xc71dd2:
 
 l_0xc71ea1:
     "[1B 02 {e(l_0xc7244e)}]@It's tough, but you have to keep pressing on through the Deep Darkness." next
-    "@That way, you'll find the village of the Gumi." next
+    "@That way, you'll find the village of the Gummy." next
     "@Don't give up yet." call(data_29.l_0xc726cb) eob
 
 l_0xc71efb:
@@ -481,8 +481,8 @@ l_0xc72026:
 
 l_0xc72139:
     "[1B 02 {e(l_0xc7244e)}]@Oh, heeey!" next
-    "@Have you spoken with like, the Gumi" next
-    "@deep in the cute, little Gumi village?" next
+    "@Have you spoken with like, the Gummy" next
+    "@deep in the cute, little Gummy village?" next
     "@Oh... my... gosh..." linebreak
     "  Really???" next
     "@Are you like, really serious???" next
@@ -490,7 +490,7 @@ l_0xc72139:
     "@Do you like the way I talk now?" call(data_29.l_0xc726cb) eob
 
 l_0xc721d9:
-    "[1B 02 {e(l_0xc7244e)}]@There is a very important place under the Gumi Village." call(data_29.l_0xc726cb) eob
+    "[1B 02 {e(l_0xc7244e)}]@There is a very important place under the Gummy Village." call(data_29.l_0xc726cb) eob
 
 l_0xc72205:
     "[1B 02 {e(l_0xc7244e)}]@Do you know about the talking rock in the Lost Underworld?" next

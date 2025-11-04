@@ -9,7 +9,7 @@ command e(label) "{long label}"
 // Text Data
 
 l_0xc9dc2c:
-    "[06 9B 00 {e(l_0xc9dd87)}][06 02 00 {e(l_0xc9dd78)}]@There's only one Gumi who's not shy." next
+    "[06 9B 00 {e(l_0xc9dd87)}][06 02 00 {e(l_0xc9dd78)}]@There's only one Gummy who's not shy." next
     "@It's me, bubby!" next
     "@You know what?" next
     "@There's something scary that comes from the underground." next
@@ -180,7 +180,7 @@ l_0xc9e619:
 
 l_0xc9e763:
     "@Kaweeeek!" next
-    "@Village Gumi's Comes Nobody" next
+    "@Village Gummy's Comes Nobody" next
     "@Far It's Because.  Kweek." end
 
 l_0xc9e79f:

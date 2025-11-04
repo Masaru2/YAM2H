@@ -32,7 +32,7 @@ digging out the stuff I did back in 2019, starting this project.
 
 * "Scarabia" is now called "Scarabi" like in Mother 2
 
-* "Tendas" are now called "Gumi" like in Mother 2
+* "Tendas" are now called "Gummy" like in Mother 2
 
 * Fixed various grammar mistakes in the monkey languages
 

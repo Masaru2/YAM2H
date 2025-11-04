@@ -140,20 +140,20 @@ l_0xef5bc8:
     "@A rock that doesn't talk is no fun at all." end
 
 l_0xef5be6:
-    "[06 49 00 {e(l_0xef5c46)}]@We are the same Gumi as those above ground." next
+    "[06 49 00 {e(l_0xef5c46)}]@We are the same Gummy as those above ground." next
     "@...We seem different?" next
-    "@Yeah,{pause(15)} you know, the Gumi up there are shy and don't like to talk." end
+    "@Yeah,{pause(15)} you know, the Gummy up there are shy and don't like to talk." end
 
 l_0xef5c46:
-    "@It may be my imagination,{pause(15)} but I think I hear the sound of other Gumi talking up above." next
+    "@It may be my imagination,{pause(15)} but I think I hear the sound of other Gummy talking up above." next
     "@I wonder... have they overcome their shyness?" end
 
 l_0xef5c98:
-    "[06 49 00 {e(l_0xef5ce4)}]@Didn't you think that the Gumi up above have some particularly beautiful women?" next
+    "[06 49 00 {e(l_0xef5ce4)}]@Didn't you think that the Gummy up above have some particularly beautiful women?" next
     "@They're still shy, though." end
 
 l_0xef5ce4:
-    "@Gumi women up above ground are pretty, but the men seem kind of run down." end
+    "@Gummy women up above ground are pretty, but the men seem kind of run down." end
 
 l_0xef5d16:
     "[06 FF 02 {e(l_0xef5df8)}]{set(flag 767)}@You're strange, but you smell good.{pause(20)}  So I'll tell you a secret." next
@@ -171,7 +171,7 @@ l_0xef5df8:
     "@The red springs are perfect for healing paralysis or drawing out poison." end
 
 l_0xef5e94:
-    "[06 49 00 {e(l_0xef5f31)}]@Gumi who like to talk came to the Lost Underworld" next
+    "[06 49 00 {e(l_0xef5f31)}]@Gummy who like to talk came to the Lost Underworld" next
     "@because we couldn't stand the quiet up above." next
     "@So, we established a separate tribe." next
     "@I hope we can be friendly again some day." next

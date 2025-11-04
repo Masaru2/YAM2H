@@ -405,7 +405,7 @@ l_0xc5a154:
     "{window_closeall}{counter(51)}" call(data_10.l_0xc5a4ec) "{set(flag 201)}{set(flag 202)}" call(data_10.l_0xc5a526) "[1D 0E 01 A3][1F 21 7A]" eob
 
 l_0xc5a17d:
-    "@Gumi Village and Apple Kid's abduction.{wait}" linebreak
+    "@Gummy Village and Apple Kid's abduction.{wait}" linebreak
     "{window_closeall}{counter(60)}" call(data_10.l_0xc5a4ec) call(data_10.l_0xc5a526) "{set(flag 219)}{set(flag 154)}{set(flag 102)}{set(flag 89)}{set(flag 155)}{set(flag 430)}[1D 0E 01 A4][1F 21 16]" eob
 
 l_0xc5a1ae:

@@ -419,7 +419,7 @@ l_0xc6bf0c:
     "@What?" next
     "@You're looking for the book <Overcoming Shyness>?" next
     "@I returned it to the Onett library." next
-    "@Please use the book to help the shy Gumi tribe." next
+    "@Please use the book to help the shy Gummy tribe." next
     "@...Anyway,{pause(15)} because I knew you, I had an incredible experience... wow!" next
     "@I was kidnapped by some of Giygas' toadies!{wait}{unset(flag 766)}" eob
 

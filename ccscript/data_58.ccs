@@ -73,10 +73,10 @@ l_0xc9c65b:
 
 l_0xc9c6b8:
     "[1F 1A 03 05 03]{pause(60)}[1F 1B 03 05][1F E9 03 05][1F 61][1F E6 03 05]{window_open(1)}@You guys smell really good!{pause(15)} *sniff, sniff, sniff*" next
-    "@Who am I?{pause(20)}  I'm a Gumi!{wait}{window_closetop}{pause(10)}[1F F1 04 05 04 03][1F 61][1F E6 04 05]{window_open(1)}@Hey!{pause(20)}  What are you doing inside our dinosaur cage?" next
+    "@Who am I?{pause(20)}  I'm a Gummy!{wait}{window_closetop}{pause(10)}[1F F1 04 05 04 03][1F 61][1F E6 04 05]{window_open(1)}@Hey!{pause(20)}  What are you doing inside our dinosaur cage?" next
     "@I'm going to open the door, and you get out of there right now!" next
-    "@I'm the boss,{pause(15)} so I will let you out.{wait}{window_closetop}[1F E9 04 05][1F 61][1F E6 04 05][1F 1E 13 05 06]{set(flag 651)}{window_open(1)}@Thank you for the Gumi durian." next
-    "{sound(118)}[1D 01 FF D3]{set(flag 616)}[19 10 01]{rtoarg}@([1C 02 00]'s Gumi durian was stolen.)" next
+    "@I'm the boss,{pause(15)} so I will let you out.{wait}{window_closetop}[1F E9 04 05][1F 61][1F E6 04 05][1F 1E 13 05 06]{set(flag 651)}{window_open(1)}@Thank you for the Gummy durian." next
+    "{sound(118)}[1D 01 FF D3]{set(flag 616)}[19 10 01]{rtoarg}@([1C 02 00]'s Gummy durian was stolen.)" next
     "@(The awful smell surrounding the group is now gone.)[03]{window_closeall}" eob
 
 l_0xc9c7fa:
@@ -341,7 +341,7 @@ l_0xc9d6f8:
     "[19 19 00 00]{swap}{result_is(211)}[1B 03 {e(l_0xc9d70b)}]" goto(data_35.l_0xc7c6b6)
 
 l_0xc9d70b:
-    "@The Gumi turned it down, but really seemed tempted..." end
+    "@The Gummy turned it down, but really seemed tempted..." end
 
 l_0xc9d72e:
     "[06 9B 00 {e(l_0xc9d743)}]" goto(l_0xc9d735)
@@ -410,13 +410,13 @@ l_0xc9d95e:
     "@Oh!" next
     "@Just holding this book in my hands makes me feel like" next
     "@I'm overcoming my shyness already!" next
-    "@I'll really take time to read it to everyone!{sound(121)}[03]{window_closeall}[1F 15 6A 00 79 02 01][1F 61]{window_open(1)}@(The leader of the Gumi tribe read <Overcoming Shyness> to everyone.)[03]{window_closeall}" call(data_49.l_0xc91582) "[1F 21 E7][1F E5 FF]{pause(1)}{music_resume}{window_open(1)}" newline
+    "@I'll really take time to read it to everyone!{sound(121)}[03]{window_closeall}[1F 15 6A 00 79 02 01][1F 61]{window_open(1)}@(The leader of the Gummy tribe read <Overcoming Shyness> to everyone.)[03]{window_closeall}" call(data_49.l_0xc91582) "[1F 21 E7][1F E5 FF]{pause(1)}{music_resume}{window_open(1)}" newline
     "@Everyone talks much now." next
     "@I'd like to give you some" linebreak
     "  <[1C 05 D3]> in return." next
-    "@<[1C 05 D3]> is a type of dish that all Gumi like." next
+    "@<[1C 05 D3]> is a type of dish that all Gummy like." next
     "@It stinks, but it tastes wonderful." next
-    "[1D 01 FF A4][1D 0E 00 D3][1B 05]{sound(116)}{pause(60)}{window_open(1)}@[1C 02 01] lends the leader of the Gumi tribe the book <Overcoming Shyness.>" next
+    "[1D 01 FF A4][1D 0E 00 D3][1B 05]{sound(116)}{pause(60)}{window_open(1)}@[1C 02 01] lends the leader of the Gummy tribe the book <Overcoming Shyness.>" next
     call(data_36.l_0xc7dcb6) "{wait}{window_closeall}{set(flag 155)}{pause(60)}{set(flag 509)}" call(data_24.l_0xc68931) call(data_50.l_0xc935b7) "[1F E8 FF][1F 41 06]" eob
 
 l_0xc9db12:
