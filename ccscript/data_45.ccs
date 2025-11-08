@@ -307,7 +307,7 @@ l_0xc8b57c:
 
 l_0xc8b57e:
     "@I don't feel like sending a ship out." next
-    "@I'm worried about my wife, Jill..." next
+    "@I'm worried about my wife..." next
     "@I'm not afraid of the Kraken!" next
     "@....." next
     "{pause(60)}" linebreak

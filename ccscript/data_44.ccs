@@ -279,7 +279,6 @@ l_0xc89ca5:
 
 l_0xc89d0a:
     call(data_36.l_0xc7de60) "{window_open(1)}@All right!{pause(20)}  We made it!" next
-	"@All right!{pause(20)}  We made it!" next
     "@I'm sorry we couldn't do more for you." next
     "@Remember,{pause(15)} though... we're on your side." next
     "@When you're having a tough time," next
