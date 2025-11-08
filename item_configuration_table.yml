@@ -860,7 +860,7 @@
   Cost: 1790
   Help Text Pointer: data_03.l_0xc53ec6
   Misc Flags: 15
-  Name: Angel band
+  Name: Angel's band
   Type: 24
 72:
   Action: 240
@@ -1280,7 +1280,7 @@
   Cost: 4
   Help Text Pointer: data_03.l_0xc545a1
   Misc Flags: 143
-  Name: Can of fruit juice
+  Name: Can of Fruit juice
   Type: 36
 107:
   Action: 249
@@ -1676,7 +1676,7 @@
   Cost: 0
   Help Text Pointer: data_04.l_0xc54c6d
   Misc Flags: 4
-  Name: Tofu Machine
+  Name: Tofu machine
   Type: 52
 140:
   Action: 186
@@ -2552,7 +2552,7 @@
   Cost: 698
   Help Text Pointer: data_04.l_0xc55eab
   Misc Flags: 1
-  Name: T-rex's bat
+  Name: Godzilla's bat
   Type: 16
 213:
   Action: 239
