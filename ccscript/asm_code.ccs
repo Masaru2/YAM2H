@@ -8,6 +8,9 @@ ROM[0xC1FE42] = byte [0] 0x7B
 /*Restore original spanking sound*/
 ROM[0xC3B989] = "[62]"
 
+/* Battle menu move Mirror command to the left */
+ROM[0xC2381F] = LDX_i(0x000B)
+
 /*Restore Changing the palette based on the flavour for the Cast Roll sequence*/
 // Cast scene: copy palettes to the second 2bpp palette, not the first
 ROM[0xC4E48D] = LDA_i (0x0208)
