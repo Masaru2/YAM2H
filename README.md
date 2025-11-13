@@ -23,18 +23,18 @@ digging out the stuff I did back in 2019, starting this project.
 * Restored the CAST sequence changing colors depending of the flavor you chose at the start of the game
 
 * Ported the script from Maternalbound Redux (Which is based on the book "Legends of Localization: Earthbound" by Clyde Mandelin/Tomato, the creator of the Mother 3 fan-translation. making this script the most accurate of the bunch)
-Although, some changes were done to keep consistency or accuracy to Mother 2:
-    -"Dalaam" is now named "Ranma"
-	-"Scarabia"/"Scaraba" is now named "Scarabi"
-	-"Tendas" are now named "Gummy"
-	-Fixed various inconsistencies and localization errors throughout the script (An example being the text in the monkey cave) 
-	-Two instances where a dialogue line has an official uncensored version:
-	-("It really fell behind schedule..." -> "It's been delayed for a long time.", "Has he just been drinking too much?" -> "Has he just been drinking?")
+* Although, some changes were done to keep consistency or accuracy to Mother 2:
+    - "Dalaam" is now named "Ranma"
+    - "Scarabia"/"Scaraba" is now named "Scarabi"
+    - "Tendas" are now named "Gummy"
+	- Fixed various inconsistencies and localization errors throughout the script (An example being the text in the monkey cave) 
+	- Two instances where a dialogue line has an official uncensored version:
+	- ("It really fell behind schedule..." -> "It's been delayed for a long time.", "Has he just been drinking too much?" -> "Has he just been drinking?")
 	
 * Various item names are renamed to make it closer to Mother 2
-    -Cherub's Band -> Angel's Band
-	-T-rex Bat -> Godzilla's Bat
-	-Protein Drink -> Grownup Drink
+    - Cherub's Band -> Angel's Band
+	- T-rex Bat -> Godzilla's Bat
+	- Protein Drink -> Grownup Drink
 
 * Translated Debug Mode (Ported from Maternalbound Redux)
 
@@ -69,9 +69,8 @@ Download the patches from the [Release](https://github.com/Masaru2/YAM2H/release
 		File/ROM CRC32: DC9BB451`
 
 for tools to patch a rom, I'd recommend the following tools:
--[Floating IPS by Alcaro](https://www.smwcentral.net/?a=details&id=11474&p=section)
-
--[Rompatcher.js by Marc Robledo](https://www.marcrobledo.com/RomPatcher.js/)
+- [Floating IPS by Alcaro](https://www.smwcentral.net/?a=details&id=11474&p=section)
+- [Rompatcher.js by Marc Robledo](https://www.marcrobledo.com/RomPatcher.js/)
 
 3. Load the patched rom to the emulator of choice
 
