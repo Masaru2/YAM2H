@@ -2,7 +2,7 @@
 
 This romhack aims to make Earthbound as close as possible to Mother 2 using the best sources available without making gameplay/graphical changes (Something never done before).
 
-And unlike other "Restoration" or "Relocalization" hacks, this project restores details that were cut from Earthbound. 
+And unlike other "Restoration" or "Relocalization" hacks, this project restores details that were cut from Earthbound that most of these hackers overlooked. 
  
 ## Origin
 
