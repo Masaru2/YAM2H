@@ -315,7 +315,7 @@ l_0xc83a6a:
 
 l_0xc83a89:
     "[06 91 00 {e(l_0xc83ab3)}]@He's breathing..." next
-    "@Has he just been drinking too much?" end
+    "@Has he just been drinking?" end
 
 l_0xc83ab3:
     "@Do you know him?" next

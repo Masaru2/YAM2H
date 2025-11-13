@@ -233,7 +233,7 @@ l_0xc731bc:
 
 l_0xc731f0:
     "[06 49 00 {e(l_0xc73217)}]@I wonder if <MOTHER 2> has been released yet." next
-    "@It really fell behind schedule..." end
+    "@It's been delayed for a long time." end
 
 l_0xc73217:
     "@Listen to this!{pause(20)}  I finished MOTHER 2!" end

@@ -200,7 +200,7 @@ l_0xc84aad:
     call(l_0xc84a6e) call(l_0xc84a8a) "@<Ghosts found to inhabit tunnel to Threek>" end
 
 l_0xc84ad7:
-    call(l_0xc84a6e) call(l_0xc84a8a) "@<The brave local hero named [1C 02 01] who broke up the Sharks has left Onett." next
+    call(l_0xc84a6e) call(l_0xc84a8a) //"@<The brave local hero named [1C 02 01] who broke up the Sharks has left Onett." next
     "@<[1C 02 01],{pause(20)} the courageous boy" next
     "@who reformed the notorious Shark gang in neighboring city of Onett," next
     "@no longer appears to be in Onett>" next
