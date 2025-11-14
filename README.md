@@ -51,7 +51,7 @@ digging out the stuff I did back in 2019, starting this project.
 ## Known Issues
 
 * The title screen is not 1:1 to the japanese version of Mother 2. 
-  -This is because the title screen in Earthbound is handled in such a different way than it does in Mother 2
+    - This is because the title screen in Earthbound is handled in such a different way than it does in Mother 2
 
 ## Where do I download this hack?
 
