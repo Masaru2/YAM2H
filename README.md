@@ -1,6 +1,6 @@
 # YAM2H - Yet another Mother 2 Hack
 
-This romhack aims to make Earthbound as close as possible to Mother 2 using the best sources available without making gameplay/graphical changes (Something never done before), but unlike the thousands of variations of Maternalbound or hacks where the author thinks it's better than the developers or the translators/localizers of the game, this projects aims to restore content that was in Mother 2 but cut in EarthBound that a lot of these hacks miss, using the best tools or sources available.
+This romhack aims to make Earthbound as close as possible to Mother 2 without making any sort of gameplay change (Something never done before), but unlike the thousands of variations of Maternalbound or hacks where the author thinks it's better than the developers or the translators/localizers of the game, this projects aims to restore content that was in Mother 2 but cut in EarthBound that a lot of these hacks miss, using the best translation, tools and sources available.
  
 ## Origin
 
@@ -8,7 +8,7 @@ Back in September 2019, I tried to port the Maternalbound Redux script to older 
 to Shadowone333 as some kind of response of Redux changing a lot of things in terms of gameplay and graphics.
 This leaded up to basically nothing.
 
-5 or 6 years later, in October 2025, I discovered that CoolGuyBrendyn shared its source code
+5 or 6 years later, in October 2025, I discovered that CoolGuyBrendyn shared the source code
 for his hack "Mother 2: Perfect Edition" and started working on it for the "funnies"
 digging out the stuff I did back in 2019, starting this project.
 
@@ -17,6 +17,8 @@ digging out the stuff I did back in 2019, starting this project.
 * Restored MOTHER 2 graphics, maps and town names
 
 * Mother 2 Title Screen (Lifted from Maternalbound Redux)
+
+* Greek letters from Maternalbound Redux
 
 * Restored the CAST sequence changing colors depending of the flavor you chose at the start of the game
 
@@ -49,7 +51,7 @@ digging out the stuff I did back in 2019, starting this project.
 ## Known Issues
 
 * The title screen is not 1:1 to the japanese version of Mother 2. 
-    - This is because the title screen in Earthbound is handled in such a different way than it does in Mother 2
+- This is because the title screen in Earthbound is handled in such a different way than it does in Mother 2
 
 ## Where do I download this hack?
 
