@@ -1,6 +1,6 @@
 # YAM2H - Yet another Mother 2 Hack
 
-This romhack aims to make Earthbound as close as possible to Mother 2 without making any sort of gameplay change (Something never done before), but unlike the thousands of variations of Maternalbound or hacks where the author thinks it's better than the developers or the translators/localizers of the game, this projects aims to restore content that was in Mother 2 but cut in EarthBound that a lot of these hacks miss, using the best translation, tools and sources available.
+This romhack aims to make Earthbound as close as possible to Mother 2 without making any sort of gameplay change (Something never done before), but unlike the thousands of variations of Maternalbound or hacks where the author thinks it's better than the developers or the translators/localizers of the game, this projects aims more to restore content that was in Mother 2 but cut in EarthBound and that a lot of these hacks miss, using the best translation, tools and sources available.
  
 ## Origin
 
@@ -51,7 +51,7 @@ digging out the stuff I did back in 2019, starting this project.
 ## Known Issues
 
 * The title screen is not 1:1 to the japanese version of Mother 2. 
-- This is because the title screen in Earthbound is handled in such a different way than it does in Mother 2
+  - This is because the title screen in Earthbound is handled in such a different way than it does in Mother 2
 
 ## Where do I download this hack?
 
