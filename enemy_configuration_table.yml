@@ -1022,7 +1022,7 @@
   Money: 4442
   Movement pattern: 0
   Music: 148
-  Name: '|''s Nightmare'
+  Name: '|''s Demon'
   Offense: 172
   Overworld Sprite: 293
   PP: 882
@@ -1680,7 +1680,7 @@
   Money: 745
   Movement pattern: 29
   Music: 104
-  Name: Wetnosaur
+  Name: Googlysaurus
   Offense: 126
   Overworld Sprite: 298
   PP: 0
@@ -1727,7 +1727,7 @@
   Money: 896
   Movement pattern: 29
   Music: 102
-  Name: Chomposaur
+  Name: Hungrosaurus
   Offense: 139
   Overworld Sprite: 312
   PP: 320
@@ -6474,7 +6474,7 @@
   Money: 1852
   Movement pattern: 0
   Music: 148
-  Name: Evil Mani-Mani
+  Name: Mani Mani Devil
   Offense: 86
   Overworld Sprite: 293
   PP: 88
@@ -6991,7 +6991,7 @@
   Money: 724
   Movement pattern: 29
   Music: 102
-  Name: Demonic Petunia
+  Name: Demonic Rafflesia
   Offense: 102
   Overworld Sprite: 290
   PP: 0
@@ -8119,7 +8119,7 @@
   Money: 4442
   Movement pattern: 0
   Music: 148
-  Name: '|''s Nightmare'
+  Name: '|''s Demon'
   Offense: 172
   Overworld Sprite: 293
   PP: 882
@@ -9247,7 +9247,7 @@
   Money: 572
   Movement pattern: 23
   Music: 98
-  Name: Tangoo
+  Name: Tengu
   Offense: 96
   Overworld Sprite: 324
   PP: 5
@@ -9576,7 +9576,7 @@
   Money: 1852
   Movement pattern: 0
   Music: 148
-  Name: Evil Mani-Mani
+  Name: Mani Mani Devil
   Offense: 86
   Overworld Sprite: 293
   PP: 88
@@ -9905,7 +9905,7 @@
   Money: 15
   Movement pattern: 24
   Music: 98
-  Name: Struttin' Evil Mushroom
+  Name: Wanderin' Evil Mushroom
   Offense: 15
   Overworld Sprite: 291
   PP: 0
