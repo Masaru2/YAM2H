@@ -404,7 +404,7 @@ l_0xc900e8:
     "{set(flag 10)}{set(flag 659)}{counter(150)}" call(data_48.l_0xc9128d) "{unset(flag 659)}" eob
 
 l_0xc900f9:
-    "@Humm dee dum dum dum." linebreak
+    "@[ac] Humm dee dum dum dum. [ac]" linebreak
     "  I'm hunting for mushrooms!" next
     call(data_49.l_0xc91a91) "[1B 02 {e(l_0xc901a8)}]@Hey!  Would you be willing to sell that mushroom on your head for $50?" next
     call(data_36.l_0xc7dd4b) "[11]{clearline}[09 02 {e(l_0xc9017f)} {e(l_0xc90165)}]" goto(l_0xc90165)

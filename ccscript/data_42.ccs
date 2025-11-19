@@ -330,7 +330,7 @@ l_0xc868ad:
     "@located in the back alley of the department store.)" end
 
 l_0xc86900:
-    "@(Planning Meeting for" next
+    "@(Planning Meeting for" linebreak
     "  MOTHER 3." next
     "@Only those who are related to this project are allowed to enter." next
     "@APE Software Development Team)" end

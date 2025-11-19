@@ -77,14 +77,12 @@ l_0xc88a47:
 l_0xc88b6d:
     "{window_closeall}{set(flag 536)}{music_resume}[1F 15 95 00 D4 01 01]   [1F 15 96 00 D5 01 01][1F 15 B9 00 D6 01 01][1F 15 BA 00 D7 01 01][1F 15 BB 00 D8 01 01][1F 61]                                              [1F F2 95 00 D9 01]     [1F 61][1F E7 95 00]{window_open(1)}@Sorry about bein' such troublemakers![03]{window_closeall}[1F EA 95 00]                   [1F 61][1F F2 96 00 D9 01]        [1F 61][1F E7 96 00]{window_open(1)}@We won't be so gullible anymore...{pause(20)}  Well,{pause(15)} our fans are waitin', baby..." next
     "{window_closeall}[1F EA 96 00]                      [1F 61][1F F2 B9 00 D9 01] [1F 61][1F E7 B9 00]{window_open(1)}@Let's just do this one last show and then get outta here..." next
-    "{window_closeall}[1F EA B9 00]           [1F 61][1F F2 BA 00 D9 01]   [1F 61][1F E7 BA 00]{window_open(1)}@All right!{pause(20)}  Thanks again![03]{window_closeall}[1F EA BA 00]                 [1F 61][1F F2 BB 00 DA 01]        [1F 61][1F E7 BB 00]{window_open(1)}@Money, that's what I want." linebreak
-	"@[ac] Money, that's what I want." linebreak
+    "{window_closeall}[1F EA B9 00]           [1F 61][1F F2 BA 00 D9 01]   [1F 61][1F E7 BA 00]{window_open(1)}@All right!{pause(20)}  Thanks again![03]{window_closeall}[1F EA BA 00]                 [1F 61][1F F2 BB 00 DA 01]        [1F 61][1F E7 BB 00]{window_open(1)}@[ac] Money, that's what I want." linebreak
     "  Money, that's what is hot." linebreak
     "  Money, that's what I want." next
     "@Money, it's what we ain't got 'cept{pause(5)} freedom,{pause(15)} freedom," next
     "@freedom is what we've really sought! [ac]" next
-    "{window_closeall}[1F EA BB 00]                     [1F 61][1F E7 BB 00]{window_open(1)}@Money, that's what I want." linebreak
-	"@[AC] Money, that's what I want." linebreak
+    "{window_closeall}[1F EA BB 00]                     [1F 61][1F E7 BB 00]{window_open(1)}@[ac] Money, that's what I want." linebreak
     "  Money, that's what is hot." linebreak
     "  Money, that's what I want...[03]{window_closeall}[1F 15 95 00 DB 01 01]   [1F 61][1F EA BB 00][1F 61]                                      " eob
 
